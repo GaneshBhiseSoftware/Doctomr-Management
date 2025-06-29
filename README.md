@@ -1,3 +1,3 @@
-# Doctomr-Management
+# Doctor-Management
 
 Create RestFullApi
